@@ -1,0 +1,356 @@
+[
+  {
+    "jefe": "Carolina",
+    "service": "Assurant BBVA Desempleo",
+    "client": "ASSURANT",
+    "campaign": "BBVA DESEMPLEO"
+  },
+  {
+    "jefe": "Carolina",
+    "service": "Assurant BBVA HW",
+    "client": "ASSURANT",
+    "campaign": "BBVA HW"
+  },
+  {
+    "jefe": "Carolina",
+    "service": "Assurant BBVA Préstamos",
+    "client": "ASSURANT",
+    "campaign": "BBVA PRESTAMOS"
+  },
+  {
+    "jefe": "Carolina",
+    "service": "BICE",
+    "client": "BANCO BICE",
+    "campaign": "BICE"
+  },
+  {
+    "jefe": "Carolina",
+    "service": "BICE FIDEICOMISO COBRANZAS",
+    "client": "BANCO BICE",
+    "campaign": "BICE FIDEICOMISO COBRANZAS"
+  },
+  {
+    "jefe": "Carolina",
+    "service": "BSF",
+    "client": "BSF",
+    "campaign": "BSF"
+  },
+  {
+    "jefe": "Carolina",
+    "service": "Omint",
+    "client": "OMINT",
+    "campaign": "Omint"
+  },
+  {
+    "jefe": "Carolina",
+    "service": "Spazios",
+    "client": "SPAZIOS",
+    "campaign": "SPAZIOS"
+  },
+  {
+    "jefe": "Carolina",
+    "service": "Supervielle Outbound",
+    "client": "SUPERVIELLE",
+    "campaign": "OUTBOUND"
+  },
+  {
+    "jefe": "Carolina",
+    "service": "Unicef",
+    "client": "UNICEF",
+    "campaign": "Unicef"
+  },
+  {
+    "jefe": "Ismael",
+    "service": "BNA",
+    "client": "BNA",
+    "campaign": "BNA"
+  },
+  {
+    "jefe": "Ismael",
+    "service": "Naturgy BAN",
+    "client": "NATURGY",
+    "campaign": "Naturgy BAN"
+  },
+  {
+    "jefe": "Ismael",
+    "service": "Naturgy BAN CAU",
+    "client": "NATURGY",
+    "campaign": "NATURGY BAN CAU"
+  },
+  {
+    "jefe": "Ismael",
+    "service": "Naturgy BO Energía San Juan",
+    "client": "NATURGY",
+    "campaign": "Naturgy BO Energía San Juan"
+  },
+  {
+    "jefe": "Ismael",
+    "service": "Naturgy BO NOA",
+    "client": "NATURGY",
+    "campaign": "NATURGY BO NOA"
+  },
+  {
+    "jefe": "Ismael",
+    "service": "Naturgy Energía San Juan",
+    "client": "NATURGY",
+    "campaign": "NATURGY ENERGIA SAN JUAN"
+  },
+  {
+    "jefe": "Ismael",
+    "service": "Naturgy NOA",
+    "client": "NATURGY",
+    "campaign": "Naturgy NOA"
+  },
+  {
+    "jefe": "Ismael",
+    "service": "Naturgy NOA CAU",
+    "client": "NATURGY",
+    "campaign": "NATURGY NOA CAU"
+  },
+  {
+    "jefe": "Ismael",
+    "service": "Naturgy Ventas",
+    "client": "NATURGY",
+    "campaign": "NATURGY VENTAS"
+  },
+  {
+    "jefe": "Ismael",
+    "service": "River",
+    "client": "RIVER PLATE",
+    "campaign": "River"
+  },
+  {
+    "jefe": "Ismael",
+    "service": "Supervielle Seguros",
+    "client": "SUPERVIELLE SEGUROS",
+    "campaign": "SUPERVIELLE SEGUROS"
+  },
+  {
+    "jefe": "Mariela",
+    "service": "Galicia Backoffice",
+    "client": "GALICIA SEGUROS",
+    "campaign": "Galicia Backoffice"
+  },
+  {
+    "jefe": "Mariela",
+    "service": "Galicia Cobranzas",
+    "client": "GALICIA SEGUROS",
+    "campaign": "Galicia Cobranzas"
+  },
+  {
+    "jefe": "Mariela",
+    "service": "Galicia Litigios",
+    "client": "GALICIA SEGUROS",
+    "campaign": "Galicia Litigios"
+  },
+  {
+    "jefe": "Mariela",
+    "service": "Santander Chat",
+    "client": "SANTANDER",
+    "campaign": "SANTANDER CHAT"
+  },
+  {
+    "jefe": "Mariela",
+    "service": "Santander Consumer",
+    "client": "SANTANDER",
+    "campaign": "CONSUMER"
+  },
+  {
+    "jefe": "Mariela",
+    "service": "Santander Isla Prevencion",
+    "client": "SANTANDER",
+    "campaign": "Santander Isla Prevencion"
+  },
+  {
+    "jefe": "Mariela",
+    "service": "Santander Leads",
+    "client": "SANTANDER",
+    "campaign": "LEADS"
+  },
+  {
+    "jefe": "Mariela",
+    "service": "Santander Mixto CAT Estables",
+    "client": "SANTANDER",
+    "campaign": "MIXTO CAT ESTABLES"
+  },
+  {
+    "jefe": "Mariela",
+    "service": "Santander Mixto CAT Ingresos",
+    "client": "SANTANDER",
+    "campaign": "MIXTO CAT INGRESOS"
+  },
+  {
+    "jefe": "Mariela",
+    "service": "Santander Mixto Cobranzas",
+    "client": "SANTANDER",
+    "campaign": "MIXTO COBRANZAS"
+  },
+  {
+    "jefe": "Mariela",
+    "service": "Santander Mixto Getnet",
+    "client": "SANTANDER",
+    "campaign": "MIXTO GETNET"
+  },
+  {
+    "jefe": "Mariela",
+    "service": "Santander Mora Tardia",
+    "client": "SANTANDER",
+    "campaign": "MORA TARDIA"
+  },
+  {
+    "jefe": "Mariela",
+    "service": "Santander Retencion",
+    "client": "SANTANDER",
+    "campaign": "SANTANDER RETENCION"
+  },
+  {
+    "jefe": "Mariela",
+    "service": "Santander Retencion MX",
+    "client": "SANTANDER",
+    "campaign": "Santander Retencion MX"
+  },
+  {
+    "jefe": "Mariela",
+    "service": "Santander Seguros",
+    "client": "SANTANDER",
+    "campaign": "SANTANDER SEGUROS"
+  },
+  {
+    "jefe": "Mariela",
+    "service": "Santander Telecobranzas",
+    "client": "SANTANDER",
+    "campaign": "TELECOBRANZAS"
+  },
+  {
+    "jefe": "Roxana",
+    "service": "BBVA Seguros",
+    "client": "BBVA",
+    "campaign": "BBVA SEGUROS"
+  },
+  {
+    "jefe": "Roxana",
+    "service": "Banco Piano",
+    "client": "BANCO PIANO",
+    "campaign": "BANCO PIANO"
+  },
+  {
+    "jefe": "Roxana",
+    "service": "Getnet Gold",
+    "client": "SANTANDER",
+    "campaign": "GETNET GOLD"
+  },
+  {
+    "jefe": "Roxana",
+    "service": "Getnet Onboarding",
+    "client": "SANTANDER",
+    "campaign": "GETNET ONBOARDING"
+  },
+  {
+    "jefe": "Roxana",
+    "service": "Getnet Standard",
+    "client": "SANTANDER",
+    "campaign": "GETNET STANDARD"
+  },
+  {
+    "jefe": "Roxana",
+    "service": "Openpay Comerciales",
+    "client": "BBVA OPENPAY",
+    "campaign": "OPENPAY COMERCIALES"
+  },
+  {
+    "jefe": "Roxana",
+    "service": "Openpay Customer",
+    "client": "BBVA OPENPAY",
+    "campaign": "Openpay Customer"
+  },
+  {
+    "jefe": "Roxana",
+    "service": "Openpay Onboarding",
+    "client": "BBVA OPENPAY",
+    "campaign": "OPENPAY ONBOARDING"
+  },
+  {
+    "jefe": "Roxana",
+    "service": "Openpay RRSS",
+    "client": "BBVA OPENPAY",
+    "campaign": "OPENPAY RRSS"
+  },
+  {
+    "jefe": "Roxana",
+    "service": "Yamaha Atencion",
+    "client": "YAMAHA",
+    "campaign": "Yamaha Atencion"
+  },
+  {
+    "jefe": "Roxana",
+    "service": "Yamaha Cobranzas",
+    "client": "YAMAHA",
+    "campaign": "YAMAHA COBRANZAS"
+  },
+  {
+    "jefe": "Salvador",
+    "service": "Banco Comafi - Prev. fraude",
+    "client": "Banco Comafi",
+    "campaign": "Banco Comafi - Prev. fraude"
+  },
+  {
+    "jefe": "Salvador",
+    "service": "Cachamai",
+    "client": "CACHAMAI",
+    "campaign": "CACHAMAI"
+  },
+  {
+    "jefe": "Salvador",
+    "service": "Farmapay",
+    "client": "FARMAPAY",
+    "campaign": "FARMAPAY"
+  },
+  {
+    "jefe": "Salvador",
+    "service": "Gire Clientes",
+    "client": "GIRE",
+    "campaign": "GIRE CLIENTES"
+  },
+  {
+    "jefe": "Salvador",
+    "service": "Gire Desborde",
+    "client": "GIRE",
+    "campaign": "GIRE DESBORDE"
+  },
+  {
+    "jefe": "Salvador",
+    "service": "J&J",
+    "client": "JONHSON & JONHSON",
+    "campaign": "J&J"
+  },
+  {
+    "jefe": "Salvador",
+    "service": "Metrogas",
+    "client": "METROGAS",
+    "campaign": "METROGAS"
+  },
+  {
+    "jefe": "Salvador",
+    "service": "Mirgor Hidrogel",
+    "client": "MIRGOR",
+    "campaign": "Mirgor Hidrogel"
+  },
+  {
+    "jefe": "Salvador",
+    "service": "Mirgor Samsung Care",
+    "client": "MIRGOR",
+    "campaign": "SAMSUNG CARE"
+  },
+  {
+    "jefe": "Salvador",
+    "service": "Mirgor Trade In",
+    "client": "MIRGOR",
+    "campaign": "TRADE IN"
+  },
+  {
+    "jefe": "Salvador",
+    "service": "Qualia",
+    "client": "QUALIA",
+    "campaign": "Qualia"
+  }
+]

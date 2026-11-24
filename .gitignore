@@ -1,0 +1,9 @@
+data/
+local_data/
+.python/
+.uv-cache/
+backups/
+__pycache__/
+.venv/
+*.sqlite*
+*.key

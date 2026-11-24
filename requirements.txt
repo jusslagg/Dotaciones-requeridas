@@ -1,0 +1,4 @@
+# Instalar para desarrollo y producción.
+openpyxl>=3.1,<4
+# Servidor WSGI para producción.
+waitress>=3.0,<4
